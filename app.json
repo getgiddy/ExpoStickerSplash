@@ -1,16 +1,16 @@
 {
   "expo": {
-    "name": "100MindsMobile",
-    "slug": "100MindsMobile",
+    "name": "ExpoStickerSplash",
+    "slug": "ExpoStickerSplash",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "100mindsmobile",
+    "scheme": "ExpoStickerSplash",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.anonymous.x100MindsMobile"
+      "bundleIdentifier": "com.anonymous.ExpoStickerSplash"
     },
     "android": {
       "adaptiveIcon": {
@@ -19,7 +19,7 @@
       },
       "edgeToEdgeEnabled": true,
       "predictiveBackGestureEnabled": false,
-      "package": "com.anonymous.x100MindsMobile"
+      "package": "com.anonymous.ExpoStickerSplash"
     },
     "web": {
       "output": "static",
